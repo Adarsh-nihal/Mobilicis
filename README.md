@@ -19,7 +19,7 @@ github(Backened) - https://github.com/Adarsh-nihal/Mobilicis-backened
 * Javascript
 * Chakra-Ui
 * MongoDB
-* NodeJS
+* ExpressJS
 * NodeJS
 * Github
 
